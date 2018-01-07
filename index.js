@@ -14,7 +14,7 @@ bot.on('ready', 'message', (message) => {
     console.log("Sith_Lord is Running version: 0.0.1. Use Control + C to exit the bot." );
     const botName = bot.user.username; 
     if(bot.login){
-    	message('\"I will show you the Dark Side!\"  -Kylo Ren/Ben Solo \r \r  I am a' + ${botName} + 
+    	bot.sendMessage('\"I will show you the Dark Side!\"  -Kylo Ren/Ben Solo \r \r  I am a' + ${botName} + 
     		'and I am here to serve you my master. I will provide you with daily updates from Star Wars News' + 
     		'Net (StarWarsNewsNet.com), along with provideing you an outlet to practice your force powers on' + 
     		'master. Command me as you wish! \n \n Looking for help in growing your force powers? Just type' + 

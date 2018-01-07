@@ -1,0 +1,10 @@
+// This is a list of all the commands available to Sith_Lord and their function.
+// Along with a possible examlple of how they could be used.
+
+//Name: holocron 
+//Discription: Provides this list of command names, descriptions, and examples of each command available.
+//Example: (Insert Youtube URL)7
+
+//Name: swnn 
+//Discription: Pulls the last article on StarWarsNewsNet.com
+//Example: (Insert Youtube URL)
